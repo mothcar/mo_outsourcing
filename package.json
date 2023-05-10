@@ -1,0 +1,42 @@
+{
+  "name": "ma-outsourcing",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "vite serve --host localhost",
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mdi/font": "^6.7.96",
+    "axios": "^0.27.2",
+    "chart.js": "^3.7.1",
+    "mitt": "^3.0.0",
+    "roboto-fontface": "*",
+    "vue": "^3.2.25",
+    "vue-axios": "^3.4.1",
+    "vue-chartjs": "^4.1.0",
+    "vue-cookies": "^1.8.1",
+    "vue-router": "^4.0.15",
+    "vue3-carousel-3d": "^1.0.4",
+    "vue3-timepicker": "^1.0.0-beta.2",
+    "vuetify": "^3.0.0-beta.0",
+    "vuex": "^4.0.2",
+    "vuex-persistedstate": "^4.1.0",
+    "webfontloader": "^1.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.0",
+    "@vuetify/vite-plugin": "^1.0.0-alpha.0",
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14",
+    "sass": "^1.38.0",
+    "sass-loader": "^10.0.0",
+    "tailwindcss": "^3.1.6",
+    "vite": "^2.9.0",
+    "vite-plugin-pwa": "^0.12.0",
+    "vue-cli-plugin-vuetify": "~2.4.8",
+    "vuetify-loader": "^2.0.0-alpha.0"
+  }
+}

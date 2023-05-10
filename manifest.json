@@ -1,0 +1,27 @@
+{
+    "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+    "name": "Shring",
+    "short_name": "Shring - short_name",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "A readable Hacker News app.",
+    "icons": [{
+      "src": "https://res.cloudinary.com/dw4yrr8eq/image/upload/v1648707025/%E1%84%89%E1%85%A1%E1%86%B7%E1%84%8C%E1%85%A9%E1%86%A8%E1%84%8B%E1%85%A94_gzeoox.svg ",
+      "sizes": "48x48",
+      "type": "image/svg"
+    }, {
+      "src": "https://res.cloudinary.com/dw4yrr8eq/image/upload/v1648707025/%E1%84%89%E1%85%A1%E1%86%B7%E1%84%8C%E1%85%A9%E1%86%A8%E1%84%8B%E1%85%A94_gzeoox.svg ",
+      "sizes": "72x72",
+      "type": "image/svg"
+    }, {
+      "src": "https://res.cloudinary.com/dw4yrr8eq/image/upload/v1648707025/%E1%84%89%E1%85%A1%E1%86%B7%E1%84%8C%E1%85%A9%E1%86%A8%E1%84%8B%E1%85%A94_gzeoox.svg ",
+      "sizes": "96x96",
+      "type": "image/svg"
+    } ],
+    "related_applications": [{
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=cheeaun.hackerweb"
+    }]
+  }
+  
